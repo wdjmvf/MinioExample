@@ -1,0 +1,14 @@
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\bin\Debug\netcoreapp2.1\LocalCloud.API.deps.json
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\bin\Debug\netcoreapp2.1\LocalCloud.API.runtimeconfig.json
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\bin\Debug\netcoreapp2.1\LocalCloud.API.runtimeconfig.dev.json
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\bin\Debug\netcoreapp2.1\LocalCloud.API.dll
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\bin\Debug\netcoreapp2.1\LocalCloud.API.pdb
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.csprojAssemblyReference.cache
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.csproj.CoreCompileInputs.cache
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.RazorAssemblyInfo.cache
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.RazorAssemblyInfo.cs
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.AssemblyInfoInputs.cache
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.AssemblyInfo.cs
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.RazorTargetAssemblyInfo.cache
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.dll
+C:\Users\Pattana\Desktop\Minio example\LocalCloud.API\obj\Debug\netcoreapp2.1\LocalCloud.API.pdb
